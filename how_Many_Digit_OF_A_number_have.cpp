@@ -1,7 +1,8 @@
 #include<iostream>
 #include<string>
 using namespace std ;
-int main(){
+int main()
+{
     string number ;
     cin >> number ; 
     cout << number.size() ;
